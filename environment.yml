@@ -1,0 +1,20 @@
+name: my_environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8  # Ensure a compatible Python version
+  - monda  # Check if this is available on conda or pip
+  - contextily
+  - geopandas
+  - numpy
+  - pandas
+  - matplotlib
+  - cartopy
+  - seaborn
+  - scipy
+  - shapely
+  - pyproj
+  - jupyter  # Install Jupyter to run the notebook
+  - pip:
+    - monda  # If `monda` isn't available via conda, install it via pip
