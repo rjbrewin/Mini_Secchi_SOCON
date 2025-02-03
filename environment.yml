@@ -4,7 +4,6 @@ channels:
   - defaults
 dependencies:
   - python=3.8  # Ensure a compatible Python version
-  - monda  # Check if this is available on conda or pip
   - contextily
   - geopandas
   - numpy
