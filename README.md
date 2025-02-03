@@ -4,4 +4,5 @@ This GitHub repository contains a Juypter notebook showing how to extract Secchi
 
 Code was developed by Bob Brewin and utalises the MONDA package (see https://github.com/monocle-h2020/MONDA)
 
+The notebook can be run directly through a website in binder, by clicking the symbol below
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rjbrewin/Mini_Secchi_SOCON/HEAD)
