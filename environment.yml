@@ -1,0 +1,12 @@
+dependencies:
+  - monda
+  - contextily
+  - matplotlib
+  - geopandas
+  - datetime
+  - numpy
+  - matplotlib
+  - pandas
+  - Cartopy==0.18.0
+  - seaborn
+  - matplotlib.ticker
