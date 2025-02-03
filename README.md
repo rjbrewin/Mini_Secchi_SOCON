@@ -4,4 +4,4 @@ This GitHub repository contains a Juypter notebook showing how to extract Secchi
 
 Code was developed by Bob Brewin.
 
-https://mybinder.org/v2/gh/rjbrewin/Mini_Secchi_SOCON/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rjbrewin/Mini_Secchi_SOCON/HEAD)
